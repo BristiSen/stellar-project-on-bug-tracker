@@ -21,3 +21,4 @@ All data is securely stored on the blockchain, ensuring transparency and immutab
 
 ## 🚀 Deployed Smart Contract Link
 XXX
+<img width="1920" height="1080" alt="Screenshot (689)" src="https://github.com/user-attachments/assets/de37e3ca-af24-454d-bd21-9fc1e6a14c7c" />
