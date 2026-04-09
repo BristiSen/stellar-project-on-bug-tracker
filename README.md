@@ -20,5 +20,5 @@ All data is securely stored on the blockchain, ensuring transparency and immutab
 - 👤 Reporter authentication for bug creation
 
 ## 🚀 Deployed Smart Contract Link
-XXX
+CAYO56YYDFQ3JY7AFS7QK6ZRY6XLFXI5TP7UPIMBDMES2WLWHPPZXNXQ
 <img width="1920" height="1080" alt="Screenshot (689)" src="https://github.com/user-attachments/assets/de37e3ca-af24-454d-bd21-9fc1e6a14c7c" />
